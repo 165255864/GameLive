@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "d86e32b5-7cf9-4196-ae20-e46437c547b9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d86e32b5-7cf9-4196-ae20-e46437c547b9" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d86e32b5-7cf9-4196-ae20-e46437c547b9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AEE78BF3-BEEF-422B-997A-F52A667F575B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d86e32b5-7cf9-4196-ae20-e46437c547b9" : "zibo_d%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B0%E6%8D%AE\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GameLive",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GameLive\/GameLive.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/zibo_d",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d86e32b5-7cf9-4196-ae20-e46437c547b9"
+    }
+  ]
+}
